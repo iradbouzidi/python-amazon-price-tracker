@@ -1,0 +1,128 @@
+{
+  "title": "MSI",
+  "date": "10/10/2020 00:54:23",
+  "best_item": {
+    "asin": "B089QZ9GX8",
+    "url": "http://www.amazon.de/dp/B089QZ9GX8",
+    "title": "MSI MAG CoreLiquid 240R CPU Cooler with 240 mm ARGB Cooler, 2 x 120 mm PWM Fans, Intel/AMD Compatible, Up to 70,000 Operating Hours, Rotating Logo, Mystic Light",
+    "seller": "Visit the MSI Store",
+    "price": 111.9
+  },
+  "currency": "\u20ac",
+  "filters": { "min": "50", "max": "10000" },
+  "base_link": "http://www.amazon.de/",
+  "products": [
+    {
+      "asin": "B086MYQ3CS",
+      "url": "http://www.amazon.de/dp/B086MYQ3CS",
+      "title": "MSI Gaming Laptop",
+      "seller": "Visit the MSI Store",
+      "price": 1363.73
+    },
+    {
+      "asin": "B086XHQ3WG",
+      "url": "http://www.amazon.de/dp/B086XHQ3WG",
+      "title": "MSI GS65 9SG-444 Stealth, 39.6 cm / 15.6 Inch, 240 Hz Gaming Notebook",
+      "seller": "Visit the MSI Store",
+      "price": 3519.0
+    },
+    {
+      "asin": "B082VCS26H",
+      "url": "http://www.amazon.de/dp/B082VCS26H",
+      "title": "MSI 00179B-SKU61 Laptop Intel Core i7 Processor 16 GB RAM NVIDIA GeForce GTX1060 Win 10 Home, black",
+      "seller": "Visit the MSI Store",
+      "price": 1099.0
+    },
+    {
+      "asin": "B087QQZPM8",
+      "url": "http://www.amazon.de/dp/B087QQZPM8",
+      "title": "MSI PS42 Modern 8RC-052 Ultra Slim 14 inch Premium Laptop",
+      "seller": "Visit the MSI Store",
+      "price": 905.58
+    },
+    {
+      "asin": "B07YCW5F1D",
+      "url": "http://www.amazon.de/dp/B07YCW5F1D",
+      "title": "MSI Optix MAG272C-002 Curved Gaming LED Monitor 27 Inch Full HD (1920 x 1080), 1 ms, 165 Hz, R1500 Curved Design, Freesync, HDR Ready, Black",
+      "seller": "Visit the MSI Store",
+      "price": 289.0
+    },
+    {
+      "asin": "B089QYGNFK",
+      "url": "http://www.amazon.de/dp/B089QYGNFK",
+      "title": "MSI MAG Core Liquid 360R CPU Cooler with 360 mm ARGB Cooler - 3 x 120 mm PWM Fans - Intel/AMD Compatible - Up to 70,000 Operating Hours - Rotating Logo, Mystic Light, Black",
+      "seller": "Visit the MSI Store",
+      "price": 132.9
+    },
+    {
+      "asin": "B08B4V583Q",
+      "url": "http://www.amazon.de/dp/B08B4V583Q",
+      "title": "MSI MAG B550 Tomahawk AMD AM4 DDR4 M.2 USB 3.2 Gen 2 HDMI ATX Gaming Motherboard",
+      "seller": "Visit the MSI Store",
+      "price": 159.9
+    },
+    {
+      "asin": "B0886Q5FZQ",
+      "url": "http://www.amazon.de/dp/B0886Q5FZQ",
+      "title": "MSI MPG Z490M GAMING EDGE WIFI mATX 10th Generation Intel Core LGA 1200 Socket DDR4 SLI/CF Two M.2 Slots, USB 3.2 Gen 2, Wi-Fi 6, micro-ATX, DP/HDMI, Mystic Light RGB",
+      "seller": "Visit the MSI Store",
+      "price": 190.9
+    },
+    {
+      "asin": "B08BCQF1BD",
+      "url": "http://www.amazon.de/dp/B08BCQF1BD",
+      "title": "msi B550-A PRO AMD AM4 DDR4 M.2 USB 3.2 Gen 2 HDMI ATX Motherboard",
+      "seller": "Visit the MSI Store",
+      "price": 116.49
+    },
+    {
+      "asin": "B07XZFKN8L",
+      "url": "http://www.amazon.de/dp/B07XZFKN8L",
+      "title": "MSI Optix MPG27CQ2 Curved LED Monitor (WQHD (2560 x 1440), 1ms, 144Hz, Steelseries Gamesense, Frameless Design, OSD App, FreeSync) Black",
+      "seller": "Visit the MSI Store",
+      "price": 463.26
+    },
+    {
+      "asin": "B089QZ9GX8",
+      "url": "http://www.amazon.de/dp/B089QZ9GX8",
+      "title": "MSI MAG CoreLiquid 240R CPU Cooler with 240 mm ARGB Cooler, 2 x 120 mm PWM Fans, Intel/AMD Compatible, Up to 70,000 Operating Hours, Rotating Logo, Mystic Light",
+      "seller": "Visit the MSI Store",
+      "price": 111.9
+    },
+    {
+      "asin": "B089XBP9HH",
+      "url": "http://www.amazon.de/dp/B089XBP9HH",
+      "title": "MSI B450 Gaming Pro Carbon Max WLAN",
+      "seller": "Visit the MSI Store",
+      "price": 123.9
+    },
+    {
+      "asin": "B0886QSX7N",
+      "url": "http://www.amazon.de/dp/B0886QSX7N",
+      "title": "MSI MPG Z490 GAMING PLUS ATX 10th Generation Intel Core LGA 1200 Socket DDR4 CF Dual M.2 Slot USB 3.2 Gen 2 2.5G LAN DP/HDMI Mystic Light RGB Gaming Motherboard",
+      "seller": "Visit the MSI Store",
+      "price": 149.9
+    },
+    {
+      "asin": "B08B4TGCM9",
+      "url": "http://www.amazon.de/dp/B08B4TGCM9",
+      "title": "MSI MPG B550i Gaming Edge WiFi AMD AM4 DDR4 M.2 USB 3.2 Gen 2 WLAN 6 HDMI Mini-ITX Gaming Motherboard 7C92-002R",
+      "seller": "Visit the MSI Store",
+      "price": 174.9
+    },
+    {
+      "asin": "B08B4SD768",
+      "url": "http://www.amazon.de/dp/B08B4SD768",
+      "title": "MSI MAG B550M Mortar WiFi AMD AM4 DDR4 M.2 USB 3.2 Gen 2 WLAN 6 HDMI M-ATX Gaming Motherboard",
+      "seller": "Visit the MSI Store",
+      "price": 154.9
+    },
+    {
+      "asin": "B087QKVRFS",
+      "url": "http://www.amazon.de/dp/B087QKVRFS",
+      "title": "MSI Creator 17M A10SD-215 Laptop (43.9 cm / 17.3 Inch / Full HD / 100% sRGB) (Intel Core i7-10750H, 16GB RAM, 1TB PCIe SSD, Nvidia GeForce GTX 1660 Ti 6GB, Windows 10) Space Grey",
+      "seller": "Visit the MSI Store",
+      "price": 1598.98
+    }
+  ]
+}
